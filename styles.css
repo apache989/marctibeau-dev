@@ -1,0 +1,39 @@
+body{
+background-color: black;
+color: salmon;
+font-family: arial;
+text-align: center;
+margin-top: 50px;
+}
+
+h1,h2,h6,p{
+font-size: 20px;
+}
+
+button{
+background-color: yellow;
+color: #0a0a23;
+padding: 10px 20px;
+border: none;
+cursor: pointer;
+}
+
+}
+audio{
+    margin-top: 30px auto;
+    width: 300px;
+    display: block;
+    color: aqua;
+    background-color: burlywood;
+    padding: 10px 20px;
+
+}
+img{
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+    border: 3px solid white;
+    margin: auto;
+    object-fit: cover;
+    display: block;
+
