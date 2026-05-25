@@ -9,7 +9,12 @@ margin-top: 50px;
 h1,h2,h6,p{
 font-size: 20px;
 }
-
+.frame{
+    border: 2px solid gray;
+    padding: 5px;
+    width:200px;
+    height:100px;
+}
 button{
 background-color: yellow;
 color: #0a0a23;
