@@ -1,5 +1,5 @@
 body{
-background-color: black;
+background-color: cerulan;
 color: salmon;
 font-family: arial;
 
@@ -16,7 +16,7 @@ font-size: 20px;
     height:100px;
 }
 button{
-background-color: yellow;
+background-color: #2e4756;
 color: #0a0a23;
 padding: 10px 20px;
 border: none;
