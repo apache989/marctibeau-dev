@@ -3,49 +3,8 @@ background-color: cerulan;
 margin: 0;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
-  
-  nav {
-    background: #333;
-    padding: 15px;
-  }
-  
-  nav a {
-    color: white;
-    text-decoration: none;
-    margin-right: 20px;
-  }
-  
-  nav a:hover {
-    color: #00bfff;
-  }
-  
-  h1 {
-    color: #003366;
-  }
-  h2{
-    color:#9fa2b2
-    text-align:center;
-  }
   
   * {
     box-sizing: border-box;
   }
-  .gallery img{
-    width:100%;
-    max-width:350px;
-    height:300px;
-  }
-.logo{
-    text-align: left;
-    transform: rotate(15deg);
-}
 
-audio{
-    margin-top: 30px auto;
-    width: 300px;
-    display: block;
-    color: aqua;
-    background-color: burlywood;
-    padding: 10px 20px;
-}
