@@ -1,29 +1,42 @@
 body{
 background-color: cerulan;
-color: salmon;
-font-family: arial;
-
-margin-top: 50px;
+padding: 15px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-h1,h2,h6,p{
-font-size: 20px;
-}
-.frame{
-    border: 2px solid gray;
-    padding: 5px;
-    width:200px;
-    height:100px;
-}
-button{
-background-color: #2e4756;
-color: #0a0a23;
-padding: 10px 20px;
-border: none;
-cursor: pointer;
+  
+  nav {
+    background: #333;
+    padding: 15px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+  nav a:hover {
+    color: #00bfff;
+  }
+  
+  h1 {
+    color: #003366;
+  }
+  h2{
+    color:#9fa2b2
+    text-align:center;
+  }
+  img {
+    margin: 10px;
+    border-radius: 10px;
+  }
+
+.logo{
+    text-align: left;
+    transform: rotate(15deg);
 }
 
-}
 audio{
     margin-top: 30px auto;
     width: 300px;
@@ -31,14 +44,4 @@ audio{
     color: aqua;
     background-color: burlywood;
     padding: 10px 20px;
-
 }
-img{
-    padding: 5px;
-    max-width: 100%;
-    height: auto;
-    border: 3px solid white;
-    margin: auto;
-    object-fit: cover;
-    display: block;
-
