@@ -7,10 +7,12 @@
 .hero{
   width: 100%;
   min-height: 100vh;
-  background-image: url(Photos/mo.jpeg);
+  background-image: url(Photos/logo1.png);
   background-position: center;
   background-size: cover;
   padding: 10px 10%;
+  overflow: hidden;
+  position: relative;
 }
 
 nav{
@@ -20,7 +22,7 @@ nav{
   justify-content: space-between;
 }
 .logo{
-  width: 140px;
+  width: 130px;
 }
 
 nav ul li{
@@ -69,4 +71,10 @@ nav ul li a{
 }
 .msg:hover{
 border-top-right-radius: 30px;
+}
+.moi{
+  width: 530px;
+  position: absolute;
+  bottom: 0;
+  right: 15%;
 }
