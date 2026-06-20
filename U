@@ -1,0 +1,50 @@
+
+body{
+overflow-x: hidden;
+margin: 0;
+}
+#video-bg{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: blur(5px);
+  z-index: -1;
+}
+  .header{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px;
+    background-color: aliceblue;
+    color: black;
+    border-bottom: whitesmoke;
+    align-items: center;
+  }
+  .navbar{
+    display: flex;
+    color: brown;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    z-index: 1;
+  }
+  .navbar:hover{
+    background-color: blue;
+  }
+.logo{
+  width: 100px;
+  height: auto;
+  margin-left: 20px;
+}
+h1{
+  text-align: center;
+  color: cornflowerblue;
+}
+.plein{
+  width: 100vw;
+  height: 100vw;
+  object-fit: cover;
+  display: block;
+}
