@@ -60,6 +60,10 @@ nav ul li a{
   max-width: 600px;
 
 }
+.mo{
+  width: 150px;
+  height: auto;
+}
 .content h1{
   font-size: 70px;
   color: #222;
