@@ -90,6 +90,10 @@ border-top-right-radius: 30px;
 .moi.anim{
   animation-delay: 1.5s;
 }
+p{
+  padding: 10px;
+  margin-top: 5px;
+}
 .anim{
   opacity: 0;
   transform: translateY(30px);
