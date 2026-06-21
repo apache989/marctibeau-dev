@@ -83,10 +83,10 @@ nav ul li a{
 border-top-right-radius: 30px;
 }
 .moi{
-  width: 100px;
+  width: 200px;
   position: absolute;
   bottom: 0;
-  right: 25%;
+  right: 15%;
 }
 .moi.anim{
   animation-delay: 1.5s;
