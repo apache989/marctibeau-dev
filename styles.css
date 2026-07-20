@@ -1,18 +1,9 @@
 *{
+  background-color: beige;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-.hero{
-  width: 100%;
-  min-height: 100vh;
-  background-image: url(Photos/logo1.png);
-  background-position: center;
-  background-size: cover;
-  padding: 10px 10%;
-  overflow: hidden;
-  position: relative;
 }
 
 nav{
