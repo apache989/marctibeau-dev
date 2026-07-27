@@ -10,6 +10,7 @@ header{
    height: 50px;
    background-color: antiquewhite;
    display: flex;
+   background-color: #1b1b32;
 }
 
 #log{
@@ -28,7 +29,7 @@ header{
    z-index: -1;
 }
 h1{
-   color: #f1be32;
+   color: whitesmoke;
    font-size: min(5vw, 1.2em);
    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
