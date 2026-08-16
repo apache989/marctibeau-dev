@@ -1,0 +1,11 @@
+yaya.css
+body{
+    align-items: center;
+    text-align:center;
+    font-size: 1.rem;
+    color: #333;
+    background-color: #eee;
+}
+nav ul li{
+    text-align:right;
+}
